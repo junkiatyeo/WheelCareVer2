@@ -1,0 +1,195 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../In_Transit_A2_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:220px;
+    width:295px;
+    height:60px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:301px;
+    height:66px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:291px;
+    height:35px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_line {
+    background-image: url('../In_Transit_A2_files/u2_line.png');
+}
+
+.u2_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:281px;
+    height:3px;
+}
+
+.u2 {
+    position:absolute;
+    left:7px;
+    top:290px;
+    width:281px;
+    height:10px;
+    
+}
+
+.u3 {
+    position:absolute;
+    left:7px;
+    top:310px;
+    width:288px;
+    height:137px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../In_Transit_A2_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:0px;
+    top:457px;
+    width:295px;
+    height:60px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:301px;
+    height:66px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:291px;
+    height:51px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../In_Transit_A2_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:295px;
+    height:220px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:295px;
+    height:220px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:102px;
+    width:291px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../In_Transit_A2_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:517px;
+    width:180px;
+    height:15px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:21px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
