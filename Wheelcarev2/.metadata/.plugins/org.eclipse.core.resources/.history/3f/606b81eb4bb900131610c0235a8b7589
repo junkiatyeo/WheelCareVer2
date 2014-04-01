@@ -1,0 +1,58 @@
+﻿<html>
+<head>
+    <title>In_Transit_C5</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="imagetoolbar" content="no"/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=yes"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet">
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet">
+    <link href="In_Transit_C5_files/axurerp_pagespecificstyles.css" type="text/css" rel="stylesheet">
+<!--[if IE 6]>
+    <link href="In_Transit_C5_files/axurerp_pagespecificstyles_ie6.css" type="text/css" rel="stylesheet">
+<![endif]-->
+    <script src="data/sitemap.js"></script>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axurerp_beforepagescript.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+<script src='In_Transit_C5_files/data.js'></script>
+</head>
+<body>
+<div id="main_container">
+
+<div id="u0" class="u0_container"   >
+<div id="u0_img" class="u0_normal detectCanvas"></div>
+<div id="u1" class="u1"  >
+<div id="u1_rtf"><p style="text-align:left;"><span style="font-family:Axure Handwriting;font-size:16px;font-weight:bold;font-style:normal;text-decoration:none;color:#333333;">&nbsp;</span><span style="font-family:Axure Handwriting;font-size:16px;font-weight:bold;font-style:normal;text-decoration:none;color:#333333;">Pan Pacific Hotel</span></p><p style="text-align:left;"><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#333333;">&nbsp;</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#333333;">0</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#333333;">20</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#333333;">8</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#333333;">9</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">&nbsp;</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">Raffles Boulevard</span></p></div>
+</div>
+</div><div id="u2" class="u2" >
+<DIV id="u2_line" class="u2_line" ></DIV>
+</div>
+<div id="u3" class="u3_container"   >
+<div id="u3_img" class="u3_normal detectCanvas"></div>
+<div id="u4" class="u4" style="visibility:hidden;"  >
+<div id="u4_rtf"></div>
+</div>
+</div>
+<div id="u5" class="u5"  >
+<div id="u5_rtf"><p style="text-align:right;"><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#660000;">Alighting Bus Stop</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:normal;font-style:italic;text-decoration:none;color:#660000;">&nbsp;</span></p></div>
+</div>
+<div id="u6" class="u6_container"   >
+<div id="u6_img" class="u6_normal detectCanvas"></div>
+<div id="u7" class="u7" style="visibility:hidden;"  >
+<div id="u7_rtf"></div>
+</div>
+</div>
+<div id="u8" class="u8_container"   >
+<div id="u8_img" class="u8_normal detectCanvas"></div>
+<div id="u9" class="u9"  >
+<div id="u9_rtf"><p style="text-align:center;"><span style="font-family:Axure Handwriting;font-size:13px;font-weight:bold;font-style:normal;text-decoration:none;color:#333333;">1</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:bold;font-style:normal;text-decoration:none;color:#333333;"> stop</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:bold;font-style:normal;text-decoration:none;color:#333333;">&nbsp;</span><span style="font-family:Axure Handwriting;font-size:13px;font-weight:bold;font-style:normal;text-decoration:none;color:#333333;">remaining</span></p></div>
+</div>
+</div>
+</div>
+<div class="preload"><img src="In_Transit_C5_files/u0_normal.png" width="1" height="1"/><img src="In_Transit_C5_files/u2_line.png" width="1" height="1"/><img src="In_Transit_C5_files/u3_normal.png" width="1" height="1"/><img src="In_Transit_C5_files/u6_normal.png" width="1" height="1"/><img src="In_Transit_C5_files/u8_normal.png" width="1" height="1"/></div>
+</body>
+<script src="resources/scripts/axurerp_pagescript.js"></script>
+<script src="In_Transit_C5_files/axurerp_pagespecificscript.js" charset="utf-8"></script>

@@ -1,0 +1,115 @@
+﻿* html .u3_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u3_line.png");
+}
+
+* html .u4_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u4_normal.png");
+}
+
+* html .u6_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u6_normal.png");
+}
+
+* html .u8_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u8_normal.png");
+}
+
+* html .u11_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u11_normal.png");
+}
+
+* html .u13_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u13_normal.png");
+}
+
+* html .u17_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u4_normal.png");
+}
+
+* html .u19_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u19_normal.png");
+}
+
+* html .u22_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u6_normal.png");
+}
+
+* html .u25_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u25_normal.png");
+}
+
+* html .u27_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u27_line.png");
+}
+
+* html .u28_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u13_normal.png");
+}
+
+* html .u32_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u4_normal.png");
+}
+
+* html .u34_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u19_normal.png");
+}
+
+* html .u37_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u6_normal.png");
+}
+
+* html .u40_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u25_normal.png");
+}
+
+* html .u42_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u42_line.png");
+}
+
+* html .u43_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u13_normal.png");
+}
+
+* html .u47_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u4_normal.png");
+}
+
+* html .u49_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u19_normal.png");
+}
+
+* html .u52_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u6_normal.png");
+}
+
+* html .u55_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u25_normal.png");
+}
+
+* html .u57_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="List_of_Bus_Services_D_files/u57_normal.png");
+}
+
